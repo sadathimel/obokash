@@ -1,0 +1,97 @@
+.object-link,.ui-menu-item a{text-decoration:none}#tour-offers{background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url(../images/cover-cruise-detail.jpg) 50% 0;background-size:cover;background-attachment:fixed}#car-offers{background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url(../images/cover-tour-offers.jpg) 50% 0;background-size:cover;background-attachment:fixed}#newsletter-1{color:#fff;background:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url(../images/newsletter.jpg) 50% 78%;background-size:140%}#special-offer{background:#F1F1F1}.navbar-header img{height:45px}#owl-testimonials{margin-top:0}.main-navbar.navbar-black .nav>li>a{color:#000}.main-navbar.navbar-black.affix{background:#fff}.footer-widget .footer-heading{font-size:22px}.page-heading h2{font-size:25px}.main-img img{height:275px}.block-title a{height:55px;display:block}.toggle input[type=radio]+.label-text:before,input[type=checkbox]+.label-text:before,input[type=radio]+.label-text:before{font-family:FontAwesome;speak:none;font-style:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;width:1em;display:inline-block}.offer-price-2 li.price{font-size:15px}.grid-block .offer-price-1 li.price{font-size:16px}.visa-img img{height:185px}.visa-img ul{text-align:center}#search-tabs-3 .tab-pane{background:rgba(255,255,255,0);border:1px solid #dedada}.tab-content{background:rgba(255,255,255,.8)}.no-pd-r{z-index:1000}input[type=checkbox],input[type=radio]{position:absolute;right:9000px}input[type=checkbox]+.label-text:before{content:"\f096";font-weight:400;margin-right:5px}input[type=checkbox]:checked+.label-text:before{content:"\f14a";color:#2980b9;animation:effect 250ms ease-in}input[type=checkbox]:disabled+.label-text{color:#aaa}input[type=checkbox]:disabled+.label-text:before{content:"\f0c8";color:#ccc}input[type=radio]+.label-text{font-size:20px}input[type=radio]+.label-text:before{content:"\f10c";font-weight:400;font-size:20px;margin-right:5px}input[type=radio]:checked+.label-text:before{content:"\f192";color:#000;animation:effect 250ms ease-in;font-weight:700}input[type=radio]:disabled+.label-text{color:#aaa}input[type=radio]:disabled+.label-text:before{content:"\f111";color:#ccc}.toggle input[type=radio]+.label-text:before{content:"\f204";font-weight:400;margin-right:10px}.toggle input[type=radio]:checked+.label-text:before{content:"\f205";color:#16a085;animation:effect 250ms ease-in}.toggle input[type=radio]:disabled+.label-text{color:#aaa}.toggle input[type=radio]:disabled+.label-text:before{content:"\f204";color:#ccc}.feature-slider img{height:405px!important}.detail-tabs{margin:53px 0}#about-video .item,.list-block-obokash{margin-bottom:15px}.support-block{margin-top:0}.details-obokash-h3{font-size:15px!important}.details-obokash-button .btn{margin-top:0!important}.details-obokash-button{padding:18px!important}.crs-list-image-obokash img{height:100%!important}.footer-widget.ftr-contact li:nth-child(2){font-size:15px}#abt-cnt-2-text img{width:25%;float:left;padding-right:10px;padding-bottom:10px}.menu-bottom-border{border-bottom:1px solid #dadada;border-color:#dadada!important}.umrah-content p{color:#fff;font-size:16px}.umrah-h4 h4,.visa-h4 h4{color:#fff}.tour-content p{color:#000;font-size:16px}.visa-content p{color:#fff;font-size:16px}@keyframes effect{0%{transform:scale(0)}25%{transform:scale(1.3)}75%{transform:scale(1.4)}100%{transform:scale(1)}}@media only screen and (max-width:768px){.navbar-header img{height:28px}}@media only screen and (max-width:480px){.navbar-header img{height:28px}}@media only screen and (max-width:320px){.navbar-header img{height:28px}}.ui-widget button,.ui-widget input,.ui-widget select,.ui-widget textarea{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px}.jquery-ui-suggestion,.select2-container .select2-selection--single{height:40px!important;border:1px solid #dedede;border-radius:0;padding:5px}.ui-autocomplete.ui-menu.ui-widget.ui-widget-content{background:#fff;width:200px;padding-left:0;z-index:99999}.ui-autocomplete.ui-menu.ui-widget.ui-widget-content li a:hover{background:#00adef;}.ui-autocomplete.ui-menu.ui-widget.ui-widget-content li{list-style:none;padding-left:0!important}.ui-menu-item:hover{background:#1E90FF}.ui-menu-item a{padding-left:15px}.ui-menu-item a:hover{color:#fff}.ui-helper-hidden-accessible{display:none}.jquery-ui-suggestion{display:block;width:100%;height:30px;padding:6px 0 6px 12px;font-size:14px;line-height:1.428571429;color:#999;vertical-align:middle;background-color:#fff;border:2px solid #ebebeb;border-radius:4px;-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}.content-in-list{height:40px;overflow:hidden}.title-in-list{height:60px;overflow:hidden}.rte-content.text-justify p{text-align:justify;font-size:16px;line-height:1.5em;color:#333}.umrah-content.rte-content.text-justify p,.visa-content.rte-content.text-justify p{color:#fff}#search-tabs-3 .tab-pane form input.no-icon,#search-tabs-3 .tab-pane form input.no-icon::placeholder,#search-tabs-3 .tab-pane form select.no-icon{padding-left:2px}.webslide-bottom-border{margin:10px auto 50px;border:2px solid #ccc;border-top:none}.flags_padding{border:1px solid #ccc;width:100%;border-bottom:none;padding:5px}.flags_padding img{width:45px;height:25px;border:1px solid gray;margin-right:5px}.object-link:hover{text-decoration:unterline}#mySidenav #web-name{background:#ccc}.navbar-logo-r{width:125px;height:43px}.breadcrumb>li:after{padding:0 5px;color:#ccc;content:"/\00a0"}.breadcrumb>li+li:before{content:none!important}#addmulticity-container,.multi-city-remove{display:block;font-size:40px;margin-left:-20px;cursor:pointer}#addmulticity-container{margin-top:17px}.multi-city-remove{margin-top:-7px}#why-chose-content-2 #why-chose-cnt-2-text h2 span>span{color:#00adef}#why-chose-content-2 #why-chose-cnt-2-text h2>span{font-weight:900;font-size:53px;display:block;margin-top:10px;text-transform:Uppercase}#why-chose-cnt-2-text img{float:left;padding-right:10px;padding-bottom:10px;height:220px;width:260px}#about-video .video-frame{height:315px}.height20{height:20px}.contact-map,.footer-map,.map-frame{height:200px}.text-white{color:#fff}.iframe-class{border:none;width:100%}.slide-thumb{height:100px}#flexslider-container-3 #slider-3{margin-top:88px}.alsolike{background:#f1f2f2;color:#808285;padding:5px 25px 1px;margin-bottom:5px;margin-top:-10px}.side-bar .booking-form{padding:15px 23px 40px}.side-bar .booking-form h4{font-family:Lato,sans-serif}.detail-tabs .tab-content ul li{position:relative;padding-bottom:3px}.detail-tabs .tab-content ul{list-style:none}.detail-tabs .tab-content ul li:before{content:'';position:absolute;border-right:2px solid #333;border-bottom:2px solid #333;width:8px;height:8px;top:calc(50% - 4px);left:-20px;transform:translateY(-50%) rotate(-45deg)}.flex-control-nav,.flex-direction-nav{display:block!important;width:100%;z-index:999!important}.detail-tabs .tab-content h1,.detail-tabs .tab-content h2,.detail-tabs .tab-content h3,.detail-tabs .tab-content h4,.detail-tabs .tab-content h5,.detail-tabs .tab-content h6,.detail-tabs .tab-content h7,.detail-tabs .tab-content h8{line-height:20px}.detail-tabs .tab-content #details p,.detail-tabs .tab-content #itineray p{line-height:15px}.main-navbar .navbar-header{background:#fff}.offer-price-1 li.price a{color:#fff;text-decoration:none}.main-navbar .navbar-header button#menu-button .icon-bar{background:#000}.flex-control-nav{background:#FFF;opacity:.66!important;padding:10px;position:absolute;text-align:center;top:auto!important}.flex-direction-nav{opacity:1!important;top:30%!important}.flex-direction-nav a{color:rgba(0,0,0,.8);cursor:pointer;display:block;height:40px;margin:0;opacity:0;overflow:hidden;padding-top:8px;position:absolute;text-shadow:1px 1px 0 rgba(255,255,255,.3);top:50%;transition:all .3s ease 0s;width:40px;z-index:10}.bread-crub h1{font-size:40px}.menubar{position:relative}#home-title-slide{position:absolute;margin-top:-650px;margin-left:75px;width:550px}#home-title-slide h1{color:#fff;text-shadow:2px 2px 4px #000;text-align:center;text-transform:uppercase;font-weight:700;font-family:Lato,serif;font-size:55px}#why-chose-content-2{padding-bottom:10px}#search-tabs-3.search-tabs{bottom:0;top:88px}#travel-guide .tv-guide-block .tab-text h3 a,.block-title a,.blog-post-title a,.detail-block .detail-title a,.flight-info h3 .flight-destination,.main-title a,.side-bar .detail-block-2 .detail-title a,h1,h2,h3,h4,h5,h6{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}p{color:#333}.product-content-box{margin:0 1px}.product-content-box-tour{margin:0 15px 0 45px}.product-content-box-visa{margin:0 30px}.product-content{border:1px solid #ddd;padding:15px}.header-absolute{z-index:9998}#footer .social-links{margin-top:20px}.map-direction a{font-weight:900;color:#00adef!important;text-transform:uppercase}.bread-crub{background-size:cover;color:#fff}.yframe{width:100%;height:300px;background-color:#000;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}.btn-youtube{margin:120px 42%;font-size:70px;color:rgba(0,0,0,.8);cursor:pointer}.yframe:hover .btn-youtube{color:red}@media (max-width:1199px){#addmulticity-container,.multi-city-remove{margin:auto;text-align:center}.flex-control-nav{bottom:165px!important}}@media (min-width:1200px){#flexslider-container-3,#slider-3 .flex-viewport,#slider-3 .slides{height:600px}.bread-crub{padding-top:11%}.flex-control-nav{bottom:165px!important}}@media (min-width:992px){.video-list-home{float:right;padding:0 0 20px 20px;margin-top:-100px}}@media (max-width:991px){.video-list-home{float:right;padding:0 0 20px 20px;width:100%}.bread-crub{padding-top:30%}.flexslider-container{margin-top:-30px}#slider-3{height:550px}#about-container{margin-top:-280px}.flex-control-nav{bottom:0!important}#home-title-slide{margin-top:-550px;width:100%;margin-left:auto;margin-right:auto;text-align:center}#home-title-slide h1{font-size:22px}#search-tabs-3.search-tabs{top:140px}}@media (max-width:768px){#why-chose-content-2 img.img-why-chose{width:130px;height:110px}#why-chose-content-2 #why-chose-cnt-2-text h2>span{font-size:26px}.bread-crub h1{font-size:30px}.product-content-box-tour{margin:0 45px}}
+.main-navbar .nav>li>a{
+    font-size:14px;
+}
+
+.gotolink{
+    cursor: pointer;
+}
+
+@media (min-width: 1200px){
+    .main-navbar .nav>li>a {
+        padding-left: 0;
+        padding-right: 0;
+        margin: 0 11px;
+    }
+}
+
+.multi-countries_padding {
+    border: 1px solid #ccc;
+    width: 100%;
+/*    border-bottom: none;*/
+    padding: 5px;
+    height:120px;
+}
+
+.multi-countries_padding img {
+    width: 65px;
+    height: 50px;
+    border: 1px solid gray;
+    margin-right: 5px;
+}
+.multi-tour-list-countries{
+    font-weight:normal;
+    font-size:10px;
+}
+
+.bcontinent-country-multi .multi-tour-img{
+    height:280px;
+}
+.multi-no-decoration{
+    text-decoration:none;
+    font-size:11px;
+}
+
+.flags_padding{
+    border-bottom:1px solid #ccc;
+}
+
+.wsdownmenu-list > li > a{
+    background:#00adef;
+    color:#fff;
+}
+
+.wsdownmenu-list > li > a.multiple-country-link{
+    background-color:#63a3da;
+}
+
+.wsdownmenu-list > li > a .fa.fa-angle-down {
+    color:#fff;
+}
+.wsdownmenu-list > li > a:hover .fa.fa-angle-down {
+    color:#000;
+}
+
+
+
+.wsdownmenu-list li:hover>a {
+	background-color:#fff;
+        color:#000;
+	text-decoration: none;
+}
+.wsdownmenu-list > li > a:hover {
+	background-color:#fff;
+        color:#000;
+	text-decoration: none;
+}
+.wsdownmenu-list > li > a.active {
+	background-color:#fff;
+        color:#000;
+	text-decoration: none;
+}
+.wsdownmenu-submenu > li > a:hover {
+	background-color:#fff;
+        color:#000;
+	border-radius: 0px;
+	text-decoration: none;
+	text-decoration: none;
+}
+
+.rich-content img{
+    max-width:100% !important;
+}
+
+/*IMRAN 29-03-2020 */
+.modal{
+    z-index: 99999!important;
+}
