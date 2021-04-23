@@ -1,55 +1,4 @@
-    
 <?php get_header(); ?>
-
-
-<!--========================= FLEX SLIDER =====================-->
-    <section class="menubar">
-    <h2 class="collapse">Navigation</h2>
-    <div class="header-absolute">
-<nav class="navbar navbar-default main-navbar navbar-custom navbar-black top-menu" id="mynavbar">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" id="menu-button">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>                        
-            </button>            
-            <a href="https://www.obokash.com/" class="navbar-brand">
-                <img data-src="<?php echo get_template_directory_uri(); ?>/images/logo/obokash.com.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="obokash.com" class="asyncImage img-responsive">
-            </a>
-        </div><!-- end navbar-header -->
-
-        <div class="collapse navbar-collapse" id="myNavbar1">
-            <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="https://www.obokash.com/">Home</a></li><li class=" dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About us<span><i class="fa fa-angle-down"></i></span></a><ul class="dropdown-menu"><li><a href="https://www.obokash.com/about-us">Company Overview</a></li><li><a href="https://www.obokash.com/message-from-ceo">Message from CEO</a></li></ul></li><li class=""><a href="https://www.obokash.com/umrah-packages-from-bangladesh">Umrah Packages</a></li><li class=""><a href="https://www.obokash.com/holiday-packages-from-bangladesh">Tour Packages</a></li><li class=""><a href="https://www.obokash.com/visa-processing-agent-bangladesh">VISA Service</a></li><li class=""><a href="https://www.obokash.com/blog">Blog</a></li><li class=""><a href="https://www.obokash.com/contact-us">Contact us</a></li>            
-            </ul>
-        </div><!-- end navbar collapse -->
-    </div><!-- end container -->
- </nav><!-- end navbar -->    
-
-
-
-<div class="sidenav-content">
-    <div id="mySidenav" class="sidenav" >
-        <div id="web-name">
-            <a href="https://www.obokash.com/" class="navbar-brand-r">
-                <img data-src="<?php echo get_template_directory_uri(); ?>/images/logo/obokash.com.png" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="navbar-logo-r asyncImage img-responsive" alt="obokash.com">
-            </a>
-        </div>
-
-        <div id="main-menu">
-            <div class="closebtn">
-                <button class="btn btn-default" id="closebtn">&times;</button>
-            </div><!-- end close-btn -->
-
-            <div class="list-group panel">
-                <a class="active list-group-item" href="https://www.obokash.com/"><span>Home</span></a><a class=" list-group-item" data-toggle="collapse" data-parent="#main-menu" href="#sub-explore-cambodia-in-07-days">About us<span><i class="fa fa-chevron-down arrow"></i></span></a><div class="collapse sub-menu" id="sub-explore-cambodia-in-07-days"><a href="https://www.obokash.com/about-us" class="list-group-item">Company Overview</a><a href="https://www.obokash.com/message-from-ceo" class="list-group-item">Message from CEO</a></div><a class=" list-group-item" href="https://www.obokash.com/umrah-packages-from-bangladesh"><span>Umrah Packages</span></a><a class=" list-group-item" href="https://www.obokash.com/holiday-packages-from-bangladesh"><span>Tour Packages</span></a><a class=" list-group-item" href="https://www.obokash.com/visa-processing-agent-bangladesh"><span>VISA Service</span></a><a class=" list-group-item" href="https://www.obokash.com/blog"><span>Blog</span></a><a class=" list-group-item" href="https://www.obokash.com/contact-us"><span>Contact us</span></a>            
-            </div><!-- end list-group -->
-        </div><!-- end main-menu -->
-    </div><!-- end mySidenav -->
-</div>        
-</div><!-- end header-absolute -->
-    </section>
     
     <section class="flexslider-container" id="flexslider-container-3"> 
     <h2 class="collapse">Slider</h2>    
@@ -57,18 +6,18 @@
         <ul class="slides">
             <!-- ITEM -->
             <li class="item-0 back-size" 
-                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri();?>/imgs/banners/travel-agent-in-bangladesh.jpg') 50% 65%; 
+                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri(); ?>/imgs/banners/travel-agent-in-bangladesh.jpg') 50% 65%; 
                 background-size:cover; height:100%;">
             </li>
             <li class="item-0 back-size" 
-                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri();?>/imgs/banners/international-tour-packages-from-bangladesh.jpg') 50% 65%; 
+                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri(); ?>/imgs/banners/international-tour-packages-from-bangladesh.jpg') 50% 65%; 
                 background-size:cover; height:100%;">
             </li>
             <li class="item-0 back-size" 
-                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri();?>/imgs/banners/umrah-packages-from-bangladesh.jpg') 50% 65%; 
+                style="background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('<?php echo get_template_directory_uri(); ?>/imgs/banners/umrah-packages-from-bangladesh.jpg') 50% 65%; 
                 background-size:cover; height:100%;">
             </li>
-                        <!-- ITEM -->
+            <!-- ITEM -->
         </ul>
     </div><!-- end slider -->
     <div id="home-title-slide"><h1>Best Travel Agent in Bangladesh</h1></div>
@@ -87,7 +36,7 @@
 
                 <div class="tab-content">
                     <div id="tours" class="tab-pane in active">
-                        <form id="frm-tour" class="frm-search-tab-home" data-name="tour" action="https://www.obokash.com/" method="post">
+                        <form id="frm-tour" class="frm-search-tab-home" data-name="tour" action="?php echo get_site_url(); ?>/" method="post">
                             <input type="hidden" value="tour" name="service-type">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -139,7 +88,7 @@
                     </div><!-- end tours -->
 
                     <div id="visa" class="tab-pane">
-                        <form id="frm-visa" class="frm-search-tab-home" data-name="visa" action="https://www.obokash.com/" method="post">
+                        <form id="frm-visa" class="frm-search-tab-home" data-name="visa" action="?php echo get_site_url(); ?>/" method="post">
                             <div class="row">
                                 <input type="hidden" value="visa" name="service-type">
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -190,7 +139,7 @@
                     </div><!-- end Visa -->
 
                     <div id="hotels" class="tab-pane">
-                        <form id="frm-hotel" class="frm-search-tab-home" data-name="hotel" action="https://www.obokash.com/" method="post">
+                        <form id="frm-hotel" class="frm-search-tab-home" data-name="hotel" action="?php echo get_site_url(); ?>/" method="post">
                             <div class="row">
                                 <input type="hidden" value="hotel" name="service-type">
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -321,7 +270,7 @@
 
 
                     <div id="flights" class="tab-pane">
-                        <form id="frm-air" class="frm-search-tab-home" data-name="air" action="https://www.obokash.com/" method="post">
+                        <form id="frm-air" class="frm-search-tab-home" data-name="air" action="?php echo get_site_url(); ?>/" method="post">
                             <div class="row">
                                 <input type="hidden" value="airticket" name="service-type">
                                 <div style="border-bottom: 1px solid #c3c3c3;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -635,7 +584,7 @@
                             <p>Apart from Umrah and tour packages, Obokash Travels also have the service of visa processing for you to go travel to your desired country. Since moving from one part of the world to the other part for studying, medical, business, travel, immigration, and other purposes is now a part of our life, Obokash travels ensure that you don't get any obstacles on your way and this will help you with your visa. &nbsp;The Obokash travels know about your headache and frustration and an individual has to face lots of complex situation such as visa processing, country laws, immigration laws, rules, and regulations etc. So you can sit back and relax while we are here to handle all your problems to get you rid of this frustration.&nbsp;</p>
                             <h5>Mission &amp; Vision</h5>
                             <p>Our mission is to provide the best traveling services for our beloved customers. We ensure that your traveling is filled with joy, excitement, pleasure, and satisfaction, which you won&rsquo;t get from anywhere else, and we are keeping it cost effective for you. We are linked up with the best hotels, airlines and food restaurants so that your luxury is guaranteed. We just make sure that you have a quality time on your tour and ensure that you have the best experience when you travel with your loved ones. We can guarantee you that our services will make you come to us more and more for your traveling.</p>
-                            <p>Our vision, we see that is to become the best travel agency in Bangladesh in a very short time. Being the best will only turn to reality with the feedback and reviews of our beloved customers and it ensures that we are always concerned about our services. That is why we only provide you the best services. Your money can buy and ensure your satisfaction. Your smile means the world to us. I know it is hard to believe all these. Just try us and enjoy yourself.</p><a href="https://www.obokash.com/about-us">View more</a>                 
+                            <p>Our vision, we see that is to become the best travel agency in Bangladesh in a very short time. Being the best will only turn to reality with the feedback and reviews of our beloved customers and it ensures that we are always concerned about our services. That is why we only provide you the best services. Your money can buy and ensure your satisfaction. Your smile means the world to us. I know it is hard to believe all these. Just try us and enjoy yourself.</p><a href="?php echo get_site_url(); ?>/about-us">View more</a>                 
                     </div>
                         <!-- end row -->
                     </div><!-- end abt-cnt-2-text -->
@@ -665,7 +614,7 @@
                         <b>Warning</b>:  Use of undefined constant PACKAGELIST - assumed 'PACKAGELIST' (this will throw an Error in a future version of PHP) in <b>/home/www/obokash/obokash.com/pages/home/umrah-package-list.php</b> on line <b>19</b><br />
                         <br />
                         <b>Warning</b>:  Illegal string offset 'umrah' in <b>/home/www/obokash/obokash.com/pages/home/umrah-package-list.php</b> on line <b>19</b><br />
-                        https://www.obokash.com/P" class="btn btn-orange">View All</a>
+                        ?php echo get_site_url(); ?>/P" class="btn btn-orange">View All</a>
                     </div><!-- end view-all -->
                 </div><!-- end columns -->
             </div><!-- end row -->
@@ -687,7 +636,7 @@
                     <b>Warning</b>:  Use of undefined constant PACKAGELIST - assumed 'PACKAGELIST' (this will throw an Error in a future version of PHP) in <b>/home/www/obokash/obokash.com/pages/home/tour-package-list.php</b> on line <b>19</b><br />
                     <br />
                     <b>Warning</b>:  Illegal string offset 'tour' in <b>/home/www/obokash/obokash.com/pages/home/tour-package-list.php</b> on line <b>19</b><br />
-                    https://www.obokash.com/P" class="btn btn-orange">View All</a>
+                    ?php echo get_site_url(); ?>/P" class="btn btn-orange">View All</a>
                 </div><!-- end view-all -->
 
             </div><!-- end columns -->
@@ -713,7 +662,7 @@
                     <b>Warning</b>:  Use of undefined constant PACKAGELIST - assumed 'PACKAGELIST' (this will throw an Error in a future version of PHP) in <b>/home/www/obokash/obokash.com/pages/home/visa-package-list.php</b> on line <b>19</b><br />
                     <br />
                     <b>Warning</b>:  Illegal string offset 'visa' in <b>/home/www/obokash/obokash.com/pages/home/visa-package-list.php</b> on line <b>19</b><br />
-                    https://www.obokash.com/P" class="btn btn-orange">View All</a>
+                    ?php echo get_site_url(); ?>/" class="btn btn-orange">View All</a>
                 </div><!-- end view-all -->
             </div><!-- end columns -->
         </div><!-- end row -->
@@ -810,6 +759,4 @@
         </div><!-- end row -->
     </div><!-- end container -->
 </section><!-- end newsletter-1 -->
-
-
-<?php get_footer(); ?>
+        <?php get_footer(); ?>

@@ -1,4 +1,4 @@
-        <!--======================= FOOTER =======================-->
+<!--======================= FOOTER =======================-->
         <section id="footer" class="ftr-heading-o ftr-heading-mgn-1">
         
             <div id="footer-top" class="banner-padding ftr-top-grey ftr-text-white">
@@ -97,20 +97,7 @@ By the Gr ...               <a href="about-us">View more</a></p>
 
 
         
-        <!-- Page Scripts Starts -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" defer></script>        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js" defer></script>        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.customSelect/0.5.1/jquery.customSelect.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js" defer></script>        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.1/jquery.flexslider-min.js" defer></script>
-        <script src="/js/custom-navigation.min.js" defer></script>
-        <script src="/js/pages/packages-tour.min.js" defer></script>            
-        <script src="/vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js" defer></script>
-        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" defer></script> -->
-        <script src="/js/pages/home.min.js" defer></script>
-        <script src="/js/arrowheadit.min.js" defer></script>
+        
 
         <?php wp_footer(); ?>
         
