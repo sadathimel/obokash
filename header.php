@@ -66,10 +66,10 @@
 
 
 <!--========================= FLEX SLIDER =====================-->
-    <section class="menubar">
-        <h2 class="collapse">Navigation</h2>
-        <div class="header-absolute">
-            <nav class="navbar navbar-default main-navbar navbar-custom navbar-black top-menu" id="mynavbar">
+<section class="menubar">
+<h2 class="collapse">Navigation</h2>
+<div class="header-absolute">
+<nav class="navbar navbar-default main-navbar navbar-custom navbar-black top-menu" id="mynavbar">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" id="menu-button">
@@ -109,4 +109,4 @@
     </div><!-- end mySidenav -->
 </div>        
 </div><!-- end header-absolute -->
-    </section>
+</section>
